@@ -1,8 +1,8 @@
 # VirtualHealthCare
 ## Website Views on Different Devices
 - Mobile Views:
-![mobile view](mobile1.jpeg)
-![mobile view](mobile2.jpeg)
+![mobile view](mobile1.jpeg | width=100)
+![mobile view](mobile2.jpeg | width=100)
 - Desktop/Laptop View:
 ![laptop view](laptop1.jpeg)
 ![laptop view](laptop2.jpeg)
